@@ -1,6 +1,6 @@
 body {
     background: lightyellow;
-    font: 18px Arial, sans-serif;
+    font: 10px Arial, sans-serif;
 }
 h1 {
     color: orange;
@@ -10,4 +10,5 @@ h1 {
 h2{
     color: orange;
     text-align: center;
+    border: 3px solid green;
 }
