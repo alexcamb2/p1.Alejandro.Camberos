@@ -13,3 +13,6 @@ h2{
     font:22px Arial, sans-serif;
     border: 5px solid green;
 }
+.imgContainer{
+    float:left;
+}
